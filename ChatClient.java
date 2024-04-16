@@ -63,7 +63,7 @@ public class ChatClient {
             }
             */
             
-            String line = "TEST Check out the latest from iPad, iPad Pro, iPad Air and iPad mini. iPad is so versatile, its more than up to any task.";
+            String line = "!!TEST Check out the latest from iPad, iPad Pro, iPad Air and iPad mini. iPad is so versatile, its more than up to any task.";
             
             //for(int i=1;i<=10;i++) {
             //while (true) {
